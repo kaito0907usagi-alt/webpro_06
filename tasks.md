@@ -1,16 +1,17 @@
 #　レポート課題タスク
+:writing_hand:がある場所は，レポートに必須
 
 - [ ] 開発者向けドキュメントの作業
   - [ ] 対象とするシステムの決定 :thinking:
   - [ ] データ構造の決定 :thinking:
   - [ ] ページ構造の検討 :thinking:
   - [ ] ページ遷移の検討 :thinking:
-  - [ ] HTTPメソッドとリソース名の決定
+  - [ ] HTTP メソッドとリソース名の決定
   - [ ] ページ遷移図の作成 :writing_hand:
   - [ ] ページ構造の決定
   - [ ] ドキュメントの構成の検討 :thinking:
   - [ ] 概要 :writing_hand:
-  - [ ] HTTPメソッドとリソース名一覧 :writing_hand:
+  - [ ] HTTP メソッドとリソース名一覧 :writing_hand:
   - [ ] データ構造 :writing_hand:
   - [ ] リソース名ごとの機能の詳細 :writing_hand:
   - [ ] ページ遷移の再検討　:thinking:
@@ -33,3 +34,6 @@
   - [ ] データ削除 :writing_hand:
   - [ ] データ編集 :writing_hand:
 - [ ] 提出 :tada:
+
+##　言葉の定義
+データ構造とは，「プログラムの中で扱う情報をどのような形式で整理し，保持するか」という仕組み
